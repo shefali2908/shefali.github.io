@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.adobe.busbooking",
+    "sha256_cert_fingerprints":
+    ["C8:E5:B8:45:47:D1:41:85:02:19:33:EF:73:B2:8D:81:DB:76:41:65:F7:FA:89:E9:78:0D:F2:DB:27:BF:38:58"]
+  }
+}]
